@@ -11,3 +11,5 @@ Compatible with pma-voice native MumbleIsPlayerTalking.
 
 Easy to customize via a separate config.lua file.
 
+
+![image](https://github.com/user-attachments/assets/9fd08579-ff48-400a-92d1-bb61ec0fdc40)
