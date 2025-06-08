@@ -10,3 +10,4 @@ Efficient updates with adjustable intervals.
 Compatible with pma-voice native MumbleIsPlayerTalking.
 
 Easy to customize via a separate config.lua file.
+
